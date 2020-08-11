@@ -7,6 +7,10 @@ gem 'require_all'
 gem 'activerecord', '5.2'
 gem 'sinatra-activerecord'
 gem 'rake'
+<<<<<<< HEAD
+=======
+
+>>>>>>> a488c48a8747d1506a64b98a287bd519581c8a7c
 
 group :development do
 	gem 'shotgun'
